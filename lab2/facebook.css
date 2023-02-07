@@ -1,0 +1,64 @@
+body{
+    background-color:rgb(229, 235, 241);
+}
+.f11{
+width: 320px;
+height: 270px;
+margin: 30vh 0px 0px 300px;
+
+
+}
+.f12{
+    background-color:rgb(255, 255, 255);
+   position:absolute;
+   width:320px;
+   height:270px;
+   padding:20px 10px 10px 10px;
+   margin:-10vh 850px;
+   border-radius:6px;
+   box-shadow:5px 5px 6px -7px;
+}
+.face{
+    width:100px;
+}
+.pasew{
+    font-size: px;
+    border-radius: 8px;
+    color: white;
+    padding: 10px 0;
+    width:283px;
+    display: inline-block;
+    font-weight: bold;
+    border-radius: 6px;
+}
+.but1 {
+background-color: rgb(66,103,178); 
+border: none;
+color: white;
+padding: 10px 0;
+width:283px;
+display: inline-block;
+font-weight: bold;
+border-radius: 6px;
+
+}
+line{
+    border-top:1px solid;
+    opacity: 0.2;
+}
+.but2 {
+    background-color: rgb(27, 138, 42); 
+    border: none;
+    color: white;
+    padding: 10px 0;
+    width:283px;
+    display: inline-block;
+    font-weight: bold;
+    border-radius: 6px;
+    
+    }
+.for{
+    padding-left:80px;
+    color: rgb(66,103,200); 
+
+}
